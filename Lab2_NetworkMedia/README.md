@@ -28,9 +28,9 @@ In the future, I’ll compare real-world patch cables in my home or lab.
 
 ## 🖼️ Visuals
 
-### Twisted Pair
+### Twisted Pair  
 Real-world example:  
-![Twisted Pair Real](./twisted_pair_real.jpg)
+![Twisted Pair Real](./twisted_pair_real.jpg)  
 
 Diagram:  
 ![Twisted Pair Diagram](./twisted_pair_diagram.png)
