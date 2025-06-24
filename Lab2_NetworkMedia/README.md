@@ -30,25 +30,26 @@ In the future, I’ll compare real-world patch cables in my home or lab.
 
 ### Twisted Pair  
 Real-world example:  
-![Twisted Pair Real](./twisted_pair_real.jpg)  
+![Twisted Pair Real](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/twisted_pair_real.jpg)  
 
 Diagram:  
-![Twisted Pair Diagram](./twisted_pair_diagram.png)
+![Twisted Pair Diagram](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/twisted_pair_diagram.png)
 
 ---
 
 ### Coaxial Cable  
 Real-world example:  
-![Coaxial Real](./coaxial_real.jpg)
+![Coaxial Real](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/coaxial_real.jpg)
 
 Diagram:  
-![Coaxial Diagram](./coaxial_diagram.png)
+![Coaxial Diagram](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/coaxial_diagram.png)
 
 ---
 
 ### Fiber Optic  
 Real-world example:  
-![Fiber Optic Real](./fiber_optic_real.jpg)
+![Fiber Optic Real](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/fiber_optic_real.jpg)
 
 Diagram:  
-![Fiber Optic Diagram](./fiber_optic_diagram.png)
+![Fiber Optic Diagram](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/fiber_optic_diagram.png)
+
