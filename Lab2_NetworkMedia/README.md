@@ -23,33 +23,3 @@ There are three major physical media used in networking:
 This lab helped me understand where and why each type of cable is used, how media affects speed and cost, and how to choose based on environment.
 
 In the future, I’ll compare real-world patch cables in my home or lab.
-
----
-
-## 🖼️ Visuals
-
-### Twisted Pair  
-Real-world example:  
-![Twisted Pair Real](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/twisted_pair_real.jpg)  
-
-Diagram:  
-![Twisted Pair Diagram](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/twisted_pair_diagram.png)
-
----
-
-### Coaxial Cable  
-Real-world example:  
-![Coaxial Real](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/coaxial_real.jpg)
-
-Diagram:  
-![Coaxial Diagram](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/coaxial_diagram.png)
-
----
-
-### Fiber Optic  
-Real-world example:  
-![Fiber Optic Real](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/fiber_optic_real.jpg)
-
-Diagram:  
-![Fiber Optic Diagram](https://github.com/AshcroftCyber/networking-home-labs/raw/main/Lab2_NetworkMedia/fiber_optic_diagram.png)
-
