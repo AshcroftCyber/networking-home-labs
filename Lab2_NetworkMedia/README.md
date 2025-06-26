@@ -1,25 +1,34 @@
 # 🔌 Lab 2: Network Media Breakdown
 
-## 📍 Objective
-To explore and compare common network media types based on real-world usage, cable structure, and performance. This supports Module 6 in the Cisco course.
+## 📍 Objective  
+To explore and compare common network media types based on real-world usage, cable structure, and performance. This lab aligns with **Module 6** of the Cisco Networking course.
 
-## 🧰 Tools Used
-- Cisco Packet Tracer (optional)
-- Google Images (for cable types)
-- Markdown (for table formatting)
+## 🧰 Tools Used  
+- Cisco Packet Tracer *(optional use)*  
+- Google Images *(for visual references of cable types and connectors)*  
+- Markdown *(for formatting and documentation)*
 
-## 📡 Media Types
+## 📡 Network Media Types
 
-There are three major physical media used in networking:
+There are three major categories of physical network media:
 
-| Media Type     | Description                           | Speed Range         | Cost       | Use Case                         |
-|----------------|---------------------------------------|----------------------|------------|----------------------------------|
-| Twisted Pair   | Copper wires twisted to reduce noise  | 10 Mbps – 10 Gbps   | Low        | Home + Office Ethernet           |
-| Coaxial Cable  | Single copper core, thick insulation  | 10 Mbps – 1 Gbps    | Medium     | Cable TV + Older Networks        |
-| Fiber Optic    | Glass strands transmitting light      | 100 Mbps – 100+ Gbps| High       | Backbone, Long Distance, ISPs    |
+| **Media Type**  | **Description**                        | **Speed Range**        | **Cost**   | **Common Use Cases**               |
+|-----------------|----------------------------------------|-------------------------|------------|------------------------------------|
+| **Twisted Pair**| Copper wires twisted to reduce noise   | 10 Mbps – 10 Gbps       | Low        | LANs, home and office Ethernet     |
+| **Coaxial Cable**| Single copper core with thick insulation | 10 Mbps – 1 Gbps    | Medium     | Cable TV, legacy broadband         |
+| **Fiber Optic** | Glass strands that transmit light       | 100 Mbps – 100+ Gbps    | High       | Backbone connections, ISPs, long-range links |
 
-## 💭 Reflection
+## 🧪 Optional Practical
 
-This lab helped me understand where and why each type of cable is used, how media affects speed and cost, and how to choose based on environment.
+If Packet Tracer is available, students can simulate simple wired networks using Ethernet cables to observe physical layer behavior.
 
-In the future, I’ll compare real-world patch cables in my home or lab.
+---
+
+## 🧠 Reflection  
+
+This lab clarified the advantages and limitations of different media types. I now understand how cable choice impacts speed, interference, and cost — and how to select based on physical environment and network needs.
+
+In future labs, I’ll try to test real patch cables in my home and document signal quality, cable labeling, and connector types for hands-on comparison.
+
+---
+
