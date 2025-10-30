@@ -1,7 +1,9 @@
 # 🔌 Lab 2: Network Media Breakdown
+
 ## 🖼️ Visuals
 
 ### Twisted Pair
+
 Real-world example:
 ![Twisted Pair Real](./images/twisted_pair_real.jpg)
 
@@ -11,6 +13,7 @@ Diagram:
 ---
 
 ### Coaxial Cable
+
 Real-world example:
 ![Coaxial Real](./images/coaxial_real.jpg)
 
@@ -20,11 +23,12 @@ Diagram:
 ---
 
 ### Fiber Optic Cable
+
 Real-world example:
 ![Fiber Optic Real](./images/fiber_optic_real.jpg)
 
 Diagram:
-![Fiber Optic Diagram](./images/fiber_optic_diagram.jpg)
+![Fiber Optic Diagram](./images/fiber_optics_diagram.jpg)
 
 ## 📍 Objective
 
