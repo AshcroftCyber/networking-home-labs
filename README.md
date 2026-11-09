@@ -13,11 +13,19 @@ A collection of Cisco Networking labs completed as part of my learning journey i
 
 ---
 
+## 📚 Study Notes
+
+| Topic | Coverage |
+|-------|----------|
+| [IPv6 Fundamentals](./Cisco-Notes/IPv6/) | Why IPv6 is needed, IPv4 exhaustion, ICMPv6, and IPv4/IPv6 coexistence methods |
+
+---
+
 ### 🧰 Tools & Platforms
-- Cisco Packet Tracer  
-- Nmap  
-- Markdown Documentation  
-- Git & GitHub  
+- Cisco Packet Tracer
+- Nmap
+- Markdown Documentation
+- Git & GitHub
 
 ---
 
