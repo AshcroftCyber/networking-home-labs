@@ -190,3 +190,37 @@ Translation is useful when the two endpoints do not both support the same IP ver
 IPv6 addresses the limitations of IPv4's finite address space and supports the continued growth of connected devices. The transition is gradual, so dual stack, tunneling, and translation allow IPv4 and IPv6 networks to interoperate during migration.
 
 Understanding these methods is important for network administration because real networks may contain a mixture of IPv4-only, IPv6-only, and dual-stack devices.
+
+## 10. Visual Summary
+
+GitHub renders the following Mermaid diagrams directly in this README.
+
+### IPv4 and IPv6 coexistence approaches
+
+```mermaid
+flowchart TD
+    A[IPv4 and IPv6 coexist during migration]
+    A --> B[Dual stack]
+    A --> C[Tunneling]
+    A --> D[Translation]
+    B --> E[Devices run IPv4 and IPv6]
+    C --> F[IPv6 packet carried inside IPv4 packet]
+    D --> G[Packets translated between IPv6 and IPv4]
+```
+
+### Where each method fits
+
+```mermaid
+flowchart LR
+    V6A[IPv6-only network] --> T[Tunnel endpoints]
+    T --> V4[IPv4-only transit network]
+    V4 --> T2[Tunnel endpoint]
+    T2 --> V6B[IPv6-only network]
+
+    C6[IPv6-only client] --> N[NAT64 gateway]
+    N --> S[IPv4-only server]
+```
+
+---
+
+**Image note:** These are editable, GitHub-rendered diagrams. Separate screenshot and image assets can be added in an `images/` folder as we build out the notes.
